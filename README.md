@@ -145,5 +145,3 @@ This dataset is divided into three subsets:
 | TS2     | 501     | 1000    | Local noise    |
 | TS3     | 1001    | 2000    | 3D distortions + local noise |
 
-
-
