@@ -1,4 +1,4 @@
-The code of this repository was used for the following publication. If you find this code useful please cite our paper:
+The code of this repository was used for the following [publication](https://www.sciencedirect.com/science/article/pii/S0957417417304712). If you find this code useful please cite our paper:
 
 ```
 @article{Gallego2017138,
